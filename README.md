@@ -7,4 +7,6 @@ docker-compose up --build
 > Then, the development server will be started at http://localhost:8000/
 ---
 ### App Preview:
-![Image](https://s9.gifyu.com/images/admin.gif)
+![Image](https://i.imgur.com/dJXgLAM.png)
+![Image](https://i.imgur.com/XEsAqTS.png)
+![Image](https://i.imgur.com/GEH3nw4.png)
