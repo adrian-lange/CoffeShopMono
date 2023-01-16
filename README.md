@@ -1,5 +1,6 @@
 # <p align="center"> Coffee API </p>
 ### Running the App
+Create .env file like '.env.example' and assign a variables.
 To run the server, enable your docker desktop and open terminal with directory of project and type:
 ```
 docker-compose up --build
